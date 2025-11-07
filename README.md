@@ -3,7 +3,7 @@
 ¡Bienvenido a mi repositorio de **laboratorios Cisco Packet Tracer**!  
 Aquí encontrarás todos los archivos `.pkt` usados en mis videos de YouTube 🎥, organizados y documentados para que puedas **aprender redes desde cero hasta la automatización**.
 
-> 💡 Ideal si estás comenzando en el mundo de Cisco, preparándote para certificaciones (como **CCNA** o **DEVNET Associate**), o simplemente quieres practicar con topologías reales.
+💡 Ideal si estás comenzando en el mundo de Cisco, preparándote para certificaciones (como **CCNA** o **DEVNET Associate**), o simplemente quieres practicar con topologías reales.
 
 ---
 
