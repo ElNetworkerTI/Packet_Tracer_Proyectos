@@ -15,7 +15,7 @@ En él construiremos una topología básica de red con un router, un switch y do
 - Router Cisco (por ejemplo, modelo 2911)  
 - Switch Cisco (por ejemplo, serie 2960)  
 - PCs simuladas dentro de Packet Tracer  
-- Tema orientado a preparación para la certificación Cisco DEVNET Associate (especialmente en la parte de redes básicas y topologías)
+- Tema orientado a preparación para la certificación Cisco CCST-CCNA (especialmente en la parte de redes básicas y topologías)
 
 ## 🧩 Estructura del repositorio
 MiPrimeraRed_PacketTracer/
@@ -35,6 +35,7 @@ MiPrimeraRed_PacketTracer/
    ```bash
    ping <IP de la otra PC>
 Si recibes respuestas, la configuración es correcta.
+
 6. ¡Listo! Explora la topología, haz modificaciones (por ejemplo: cambia direcciones o añade un switch extra) para practicar.
 
 🖼️ Visual de la topología
@@ -46,5 +47,3 @@ Si recibes respuestas, la configuración es correcta.
 Ideal para principiantes que quieren entender los fundamentos de redes.
 
 Puedes usar este proyecto como base para expandir: por ejemplo, añade VLANs, routers extra, segmentación de red, y así prepararte mejor para los temas de certificación.
-
-Asegúrate de documentar tus cambios: cada vez que modifiques la topología, añade una breve descripción en este README o crea un nuevo archivo CHANGELOG.md
