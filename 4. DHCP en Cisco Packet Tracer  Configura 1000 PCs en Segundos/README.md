@@ -38,8 +38,11 @@ Forma parte de la serie educativa de mi canal de YouTube, donde aprenderás a au
 
 ## 📂 Estructura del repositorio
 DHCP_PacketTracer/
+
 ├── DHCP en Router Cisco Packet Tracer - Configura 1000 PCs en Segundos.pkt ← Archivo del laboratorio (abrir con Packet Tracer)
+
 ├── DHCP_en_Router_Cisco_Packet_Tracer-Configura_1000_PCs_en_Segundos.jpg ← Imagen de la topología del proyecto
+
 └── README.md ← Documentación del laboratorio
 
 
