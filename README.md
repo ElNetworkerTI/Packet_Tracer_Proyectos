@@ -19,10 +19,10 @@ Cada carpeta corresponde a un **video de mi canal [El Networker TI](https://www.
 ```text
 Packet_Tracer_Proyectos/
 ├── 01_MiPrimeraRed/                   ← Topología básica (router + switch + 2 PCs)
-├── 02_Red_OSPF_VLANs/                 ← OSPF + VLANs + trunking
-├── 03_NAT_y_DHCP/                     ← Traducción de direcciones y DHCP server
-├── 04_Servidor_Web_y_DNS/             ← Implementación de servidor web y DNS interno
-├── 05_Acceso_Remoto_SSH/              ← Configuración de SSH y seguridad en routers
+├── 02_Expansion_Primera_RED/          ← Topologia Basica + nuevos segmentos
+├── 03_Enrutamiento_estatico/          ← Enrutamiento entre sedes
+├── 04_DHCP_en_la_RED/                 ← DHCP en todos los endpoints
+├── 05_Que_son_VLANS/                  ← Aprendemos que son las VLANs
 └── ...                                ← Más laboratorios próximamente
 Cada carpeta incluye:
 
