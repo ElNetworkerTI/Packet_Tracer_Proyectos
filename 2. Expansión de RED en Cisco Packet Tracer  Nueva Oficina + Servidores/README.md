@@ -28,3 +28,34 @@ Es una práctica ideal para quienes ya dominaron la red básica y desean **dar e
 ---
 
 ## ⚙️ Archivos incluidos
+02_ExpansionRed/
+├── ExpansionRed.pkt ← Archivo del laboratorio (abrir en Packet Tracer)
+├── topologia.jpg ← Diagrama o captura de la topología
+└── README.md ← Este archivo
+
+
+---
+🖼️ Imagen de la topología
+topologia.jpg
+
+💡 Variantes para practicar
+
+Añade un segundo servidor DHCP para la nueva oficina.
+
+Implementa VLAN trunking entre los switches.
+
+Crea una reserva DHCP para un servidor crítico.
+
+Configura rutas estáticas o RIP para intercambio entre sedes.
+
+
+👨‍💻 Autor
+
+Williams Padilla — El Networker TI
+🎥 Canal oficial: YouTube / El Networker TI
+
+📂 Repositorio: Packet_Tracer_Proyectos
+
+📜 Licencia
+
+Uso educativo. Puedes reutilizar el contenido dando crédito a El Networker TI.
