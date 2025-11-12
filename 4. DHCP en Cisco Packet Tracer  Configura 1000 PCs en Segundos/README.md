@@ -5,8 +5,8 @@ Este laboratorio muestra cómo configurar un **servidor DHCP directamente en un 
 Forma parte de la serie educativa de mi canal de YouTube, donde aprenderás a automatizar configuraciones y optimizar la administración de redes.
 
 🔗 **Video del laboratorio:**  
-🎥 [DHCP en Router Cisco Packet Tracer | Configura 1000 PCs en Segundos](https://youtu.be/XXXXX)  
-*(Reemplaza `XXXXX` con el ID real del video en YouTube)*
+🎥 [DHCP en Router Cisco Packet Tracer | Configura 1000 PCs en Segundos](https://youtu.be/u872aqR3Z7s)  
+
 
 ---
 
@@ -38,8 +38,8 @@ Forma parte de la serie educativa de mi canal de YouTube, donde aprenderás a au
 
 ## 📂 Estructura del repositorio
 DHCP_PacketTracer/
-├── DHCP_Router.pkt ← Archivo del laboratorio (abrir con Packet Tracer)
-├── TopologiaDHCP.jpg ← Imagen de la topología del proyecto
+├── DHCP en Router Cisco Packet Tracer - Configura 1000 PCs en Segundos.pkt ← Archivo del laboratorio (abrir con Packet Tracer)
+├── DHCP_en_Router_Cisco_Packet_Tracer-Configura_1000_PCs_en_Segundos.jpg ← Imagen de la topología del proyecto
 └── README.md ← Documentación del laboratorio
 
 
@@ -58,7 +58,7 @@ DHCP_PacketTracer/
 
 ## 🌐 Topología visual
 
-![Topología del laboratorio](TopologiaDHCP.jpg)
+![Topología del laboratorio](DHCP_en_Router_Cisco_Packet_Tracer-Configura_1000_PCs_en_Segundos.jpg)
 
 ---
 
