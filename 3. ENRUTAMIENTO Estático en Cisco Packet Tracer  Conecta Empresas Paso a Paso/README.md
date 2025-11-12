@@ -1,48 +1,71 @@
-# 🧠 Proyecto: Enrutamiento Estático en Cisco Packet Tracer
-📘 Descripción
+# 🧠 Enrutamiento Estático en Cisco Packet Tracer | Conecta Empresas Paso a Paso
 
-En este laboratorio aprenderás a configurar el enrutamiento estático entre diferentes redes empresariales utilizando Cisco Packet Tracer.
-Este ejercicio forma parte de la serie educativa en mi canal de YouTube donde exploramos paso a paso cómo conectar múltiples sucursales o redes usando routers Cisco, asegurando una comunicación estable y eficiente.
+## 📘 Descripción del proyecto
+Este laboratorio demuestra cómo configurar **enrutamiento estático** entre dos o más redes empresariales utilizando **Cisco Packet Tracer**.  
+Forma parte de la serie educativa en mi canal de YouTube, donde se explica paso a paso cómo lograr que varias empresas se comuniquen entre sí mediante routers Cisco configurados manualmente.
 
-🔗 Video del laboratorio:
-🎥 ENRUTAMIENTO Estático en Cisco Packet Tracer | Conecta Empresas Paso a Paso
+🔗 **Video del laboratorio:**  
+🎥 [ENRUTAMIENTO Estático en Cisco Packet Tracer | Conecta Empresas Paso a Paso](https://youtu.be/XXXXX)  
+*(Reemplaza `XXXXX` con el ID real del video en YouTube)*
 
-(reemplaza XXXXX con el ID real del video)
+---
 
+## 🎯 Objetivos del proyecto
 
-🧩 Contenido del proyecto
+1. **Comprender el enrutamiento estático:**  
+   Entender cómo funciona el enrutamiento manual y su diferencia frente al enrutamiento dinámico.
+
+2. **Configurar rutas estáticas en routers Cisco:**  
+   Aplicar comandos CLI para establecer caminos específicos entre redes.
+
+3. **Verificar la conectividad entre redes:**  
+   Utilizar herramientas de diagnóstico como `ping` y `traceroute` para validar la comunicación.
+
+4. **Simular la interconexión empresarial:**  
+   Reproducir un entorno realista de conexión entre sedes u oficinas remotas.
+
+---
+
+## 🧰 Tecnologías y herramientas utilizadas
+
+- Cisco Packet Tracer (versión 8.x o superior)  
+- Routers y switches Cisco simulados  
+- Conocimientos básicos de direccionamiento IP y subnetting  
+- CLI (Command Line Interface) para configuración manual
+
+---
+
+## 📂 Estructura del repositorio
 EnrutamientoEstatico_PacketTracer/
-├── EnrutamientoEstatico.pkt       ← Archivo del laboratorio (abrir con Packet Tracer)
-├── TopologiaEnrutamiento.jpg      ← Imagen de la topología
-└── README.md                      ← Documentación del proyecto
+├── EnrutamientoEstatico.pkt ← Archivo del laboratorio (abrir con Packet Tracer)
+├── TopologiaEnrutamiento.jpg ← Imagen de la topología del proyecto
+└── README.md ← Documentación del laboratorio
 
-⚙️ Objetivos de aprendizaje
 
-Comprender el concepto de enrutamiento estático y su diferencia con el enrutamiento dinámico.
+---
 
-Configurar manualmente rutas estáticas entre routers Cisco.
+## 🚀 Cómo usarlo
 
-Verificar la conectividad entre redes utilizando comandos de diagnóstico (ping, traceroute).
+1. Descarga el archivo `.pkt` desde este repositorio.  
+2. Ábrelo con **Cisco Packet Tracer 8.x o superior**.  
+3. Observa la topología y los dispositivos configurados.  
+4. Ingresa a la CLI de cada router para revisar los comandos aplicados.  
+5. Realiza pruebas de conectividad (`ping`, `show ip route`, `traceroute`).  
 
-Simular un entorno real de comunicación interempresarial.
+---
 
-🖥️ Requisitos
+## 🌐 Topología visual
 
-Cisco Packet Tracer 8.x o superior
+![Topología del laboratorio](TopologiaEnrutamiento.jpg)
 
-Conocimientos básicos de:
+---
 
-Direccionamiento IP
+## 📝 Notas adicionales
 
-Subnetting
+- Este proyecto forma parte de la colección de laboratorios educativos publicados en mi canal de YouTube:  
+  🎬 [El Networker TI](https://www.youtube.com/@ElNetworkerTI)  
+- Puedes explorar más proyectos similares en mi repositorio general de Packet Tracer Labs:  
+  💼 [GitHub - Packet Tracer Projects](https://github.com/TU_USUARIO/TU_REPO)
 
-Comandos de configuración de router (modo CLI)
+---
 
-🌐 Visualización de la topología
-
-🚀 Autor
-
-👨‍💻 Williams Padilla
-🎬 YouTube: El Networker TI
-
-💼 Repositorio de proyectos: GitHub - Packet Tracer Labs
