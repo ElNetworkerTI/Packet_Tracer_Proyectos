@@ -37,7 +37,8 @@ Es una práctica ideal para quienes ya dominaron la red básica y desean **dar e
 
 ---
 🖼️ Imagen de la topología
-Expansión_de_RED_en_Cisco_Packet_Tracer.jpg
+![Topología del laboratorio](Expansión_de_RED_en_Cisco_Packet_Tracer.jpg)
+
 
 💡 Variantes para practicar
 
