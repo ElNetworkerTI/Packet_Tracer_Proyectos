@@ -1,7 +1,7 @@
 # 🏢 Expansión de RED en Cisco Packet Tracer | Nueva Oficina + Servidores
 
 **Repositorio:** Packet_Tracer_Proyectos / Carpeta: `02_ExpansionRed`  
-**Video de referencia:** 🎥 [Expansión de RED en Cisco Packet Tracer | Nueva Oficina + Servidores](https://youtu.be/COLOCA_AQUI_EL_LINK_DEL_VIDEO_CUANDO_LO_SUBAS)
+**Video de referencia:** 🎥 [Expansión de RED en Cisco Packet Tracer | Nueva Oficina + Servidores](https://youtu.be/Far3e1iv-AY)
 
 ---
 
@@ -29,14 +29,17 @@ Es una práctica ideal para quienes ya dominaron la red básica y desean **dar e
 
 ## ⚙️ Archivos incluidos
 02_ExpansionRed/
+
 ├── ExpansionRed.pkt ← Archivo del laboratorio (abrir en Packet Tracer)
+
 ├── topologia.jpg ← Diagrama o captura de la topología
+
 └── README.md ← Este archivo
 
 
 ---
 🖼️ Imagen de la topología
-topologia.jpg
+Expansión de RED en Cisco Packet Tracer.jpg
 
 💡 Variantes para practicar
 
@@ -52,6 +55,7 @@ Configura rutas estáticas o RIP para intercambio entre sedes.
 👨‍💻 Autor
 
 Williams Padilla — El Networker TI
+
 🎥 Canal oficial: YouTube / El Networker TI
 
 📂 Repositorio: Packet_Tracer_Proyectos
