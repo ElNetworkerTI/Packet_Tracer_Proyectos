@@ -1,4 +1,4 @@
-🧠 Proyecto: Enrutamiento Estático en Cisco Packet Tracer
+# 🧠 Proyecto: Enrutamiento Estático en Cisco Packet Tracer
 📘 Descripción
 
 En este laboratorio aprenderás a configurar el enrutamiento estático entre diferentes redes empresariales utilizando Cisco Packet Tracer.
