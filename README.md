@@ -1,4 +1,4 @@
-# 🛰️ Proyectos Cisco Packet Tracer – El Networker TI
+# 🛰️ Proyectos Cisco Packet Tracer – Soy Williams Net
 
 ¡Bienvenido a mi repositorio de **laboratorios Cisco Packet Tracer**!  
 Aquí encontrarás todos los archivos `.pkt` usados en mis videos de YouTube 🎥, organizados y documentados para que puedas **aprender redes desde cero hasta la automatización**.
@@ -10,7 +10,7 @@ Aquí encontrarás todos los archivos `.pkt` usados en mis videos de YouTube �
 ## 🎯 Objetivo del repositorio
 
 Este repositorio tiene como propósito **enseñar conceptos de redes de forma práctica**, con laboratorios reproducibles y explicados paso a paso.  
-Cada carpeta corresponde a un **video de mi canal [El Networker TI](https://www.youtube.com/@ElNetworkerTI)**, donde muestro cómo construir y configurar la topología.
+Cada carpeta corresponde a un **video de mi canal [Soy Williams Net](https://www.youtube.com/@SoyWilliamsNet)**, donde muestro cómo construir y configurar la topología.
 
 ---
 
@@ -35,7 +35,7 @@ Cada carpeta incluye:
 🔗 Enlace al video correspondiente en YouTube.
 
 🔔 Suscríbete a mi canal para ver cada nuevo laboratorio:
-👉 El Networker TI – YouTube : https://www.youtube.com/@ElNetworkerTI
+👉 Soy Williams Net – YouTube : https://www.youtube.com/@SoyWilliamsNet
 
 ⚙️ Tecnologías y conceptos abordados
 
@@ -68,19 +68,17 @@ Mi enfoque:
 
 🧑‍💻 Autor
 
-👋 Williams Padilla — El Networker TI
+👋 Williams Padilla
 
 📍 Técnico especialista en redes, automatización y soporte TI.
 🎯 En camino a la certificación Cisco DEVNET Associate.
 💬 Comparte conocimiento sobre redes, Linux, automatización y tecnología.
 
-📫 Conecta conmigo:
-
-YouTube: https://www.youtube.com/@ElNetworkerTI
-
-Discord: https://discord.gg/TCZ42GtV
-
-Linktree: https://linktr.ee/williams.tech
+🌐 Mis redes y recursos:
+🌲 Linktree: https://linktr.ee/SoyWilliamsnet
+🌀 Discord (comunidad de redes): https://discord.gg/vUfrPXqv
+💻 GitHub: https://github.com/SoyWilliamsNet
+💡 Substack: https://substack.com/@soywilliamsnet
 
 🧰 Próximas mejoras del repositorio
 
@@ -94,7 +92,7 @@ Linktree: https://linktr.ee/williams.tech
 Este repositorio es de uso educativo y libre distribución bajo licencia MIT.
 Si utilizas parte del contenido, menciona la fuente:
 
-💬 “Basado en los laboratorios de El Networker TI (YouTube)”
+💬 “Basado en los laboratorios de Soy Williams Net (YouTube)”
 
 ⭐ Si este contenido te ayudó, no olvides dejar una estrella en el repositorio para apoyar el proyecto.
 ¡Cada ⭐ motiva a seguir creando más laboratorios y tutoriales gratuitos!
