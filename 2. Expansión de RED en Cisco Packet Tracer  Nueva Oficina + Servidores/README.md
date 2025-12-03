@@ -53,11 +53,15 @@ Configura rutas estáticas o RIP para intercambio entre sedes.
 
 👨‍💻 Autor
 
-Williams Padilla — El Networker TI
+Williams Padilla
 
-🎥 Canal oficial: YouTube / El Networker TI
+🎥 Canal oficial: YouTube / Soy Williams Net
 
-Discord: https://discord.gg/TCZ42GtV
+🌐 Mis redes y recursos:
+🌲 Linktree: https://linktr.ee/SoyWilliamsnet
+🌀 Discord (comunidad de redes): https://discord.gg/vUfrPXqv
+💻 GitHub: https://github.com/SoyWilliamsNet
+💡 Substack: https://substack.com/@soywilliamsnet
 
 📜 Licencia
 
